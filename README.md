@@ -13,7 +13,6 @@ Highly motivated and results-oriented Data Engineer with a strong foundation in 
 <li><b>Database Management: </b> Postgresql, MySQL, Mongodb, Cassandra, SQL, NoSQL, Database Design, Database Administration</li>
 <li><b>Big Data Technologies: </b>  Apache Spark, SparkSQL, SparkML, Apache Kafka, Apache Airflow, Apache Zookeeper</li>
 <li><b>Data Engineering: </b> ETL (Extract Transform and Load), Data Pipelines, Data Warehousing, Business Intelligence (BI)</li>
-<li><b>Cloud Technologies: </b>Amazon S3, AWS Glue, Amazon Athena, Amazon Redshift </li>
 <li><b>Version Control: </b> Git, GitHub</li>
 <li><b>Others: </b>  Linux, Docker</li>
 </ul>
