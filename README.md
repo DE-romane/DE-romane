@@ -10,7 +10,7 @@ Highly motivated and results-oriented Data Analyst - Data Engineer with a strong
 <ul>
 <li><b>Programming: </b> Python, Bash (Unix Shell)</li>
 <li><b>Data Manipulation: </b> Numpy, Pandas, Web Scraping</li>
-<li><b>Database Management: </b> Postgresql, MySQL, SQL, Database Design, Database Administration, Data Modeling ,</li>
+<li><b>Database Management: </b> Postgresql, MySQL, SQL, Database Design, Database Administration, Data Modeling</li>
 <li><b>Big Data Technologies: </b>  Apache Spark, SparkSQL, SparkML, Apache Kafka, Apache Airflow, Apache Zookeeper</li>
 <li><b>Data Engineering: </b> ETL (Extract Transform and Load), Data Pipelines, Data Warehousing, Business Intelligence (BI)</li>
 <li><b>Data Analysis and Visualization: </b>Tableau, Excel, Power BI</li>
