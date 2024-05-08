@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Romane Tawfik Aziz</h1>
-<h3 align="center">Data Analyst - Data engineer</h3>
+<h3 align="center">Data Analyst</h3>
 📧 romanetawfikwork@gmail.com | 🌐 github.com/DE-romane | linkedin.com/in/de-romane
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-romane&label=Profile%20views&color=0e75b6&style=flat" alt="de-romane" /> </p>
