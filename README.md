@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-romane&label=Profile%20views&color=0e75b6&style=flat" alt="de-romane" /> </p>
 
-Highly motivated and results-oriented Data Analyst - Data Engineer with a strong foundation in data engineering principles and Data Analyst . Recent graduate with hands-on experience in Python programming, data manipulation, database management, and Big Data technologies. Passionate about building and maintaining efficient data pipelines to support data-driven decision making. Eager to contribute technical skills and collaborate within dynamic teams.
+With a Bachelor's in Electronics and Communications Engineering from Sohag University, I've honed my skills as a SQL Server Database Administrator at Armed Forces Laboratories for Medical Research and Blood Bank. Projects like the Camera-based Navigation System for Blind People showcase my ability to integrate hardware and software components for innovative solutions. Additionally, my proficiency extends to data analysis and visualization tools like Tableau, Excel, and Power BI, demonstrated in projects ranging from British Airways Review Dashboard to COVID Insights Analyzer SQL. Further bolstering my expertise are credentials from IBM and Microsoft, covering Python, RDBMS, SQL, Linux, and BI Analytics, solidifying my foundation in data science and database management.
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
