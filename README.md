@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Romane Tawfik Aziz</h1>
 <h3 align="center">Data Analyst</h3>
-📧 romanetawfikwork@gmail.com | 🌐 github.com/DE-romane | linkedin.com/in/de-romane
+📧 romanetawfikwork@gmail.com | 🌐 github.com/DE-romane
 
 +971 568388304 | Dubai ,United Arab Emirates
 
