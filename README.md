@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Romane Tawfik Aziz</h1>
+<h1 align="center">Hi 👋, I'm ROMANY TAWFEEK AZIZ </h1>
 <h3 align="center">Data Analyst</h3>
 📧 romanetawfikwork@gmail.com | 🌐 github.com/DE-romane
 
