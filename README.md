@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm ROMANY TAWFEEK AZIZ </h1>
-<h3 align="center">Power BI/Data Analyst</h3>
+<h3 align="center">Data Analyst</h3>
 📧 romanetawfikwork@gmail.com | 🌐 github.com/DE-romane
 
-+971 568388304 | Dubai ,United Arab Emirates
++20 1203849205 | Cairo ,Egypt
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-romane&label=Profile%20views&color=0e75b6&style=flat" alt="de-romane" /> </p>
 
-With a Bachelor's in Electronics and Communications Engineering from Sohag University and experience as a Power BI Analyst and SQL Server Database Administrator at the Armed Forces Laboratories for Medical Research and Blood Bank. Projects like the Camera-based Navigation System for Blind People showcase my ability to integrate hardware and software components for innovative solutions. Additionally, my proficiency extends to data analysis and visualization tools like  Excel, and Power BI, demonstrated in projects ranging from Power BI Dashboard Development for Healthcare to COVID Insights Analyzer SQL. Further bolstering my expertise are credentials from IBM and Microsoft, covering Python, RDBMS, SQL, Linux, and BI Analytics, solidifying my foundation in data science and database management.
+I am a data analyst with a strong foundation in data analysis, visualization, and database management. My experience includes working as a Power BI Analyst for the Armed Forces Medical Research and Blood Bank and participating in an Accenture Data Analytics and Visualization Virtual Internship. I possess advanced skills in Power BI, Python, SQL, and Excel, with a focus on transforming data into actionable insights and creating dynamic, interactive dashboards. I am fluent in both English and Arabic and have developed several projects demonstrating expertise in ETL processes, data exploration, and analysis across various industries, including healthcare, e-commerce, and HR.
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
@@ -14,7 +14,7 @@ With a Bachelor's in Electronics and Communications Engineering from Sohag Unive
 <li><b>Data Manipulation: </b> Numpy, Pandas, Web Scraping, Data Wrangling, Data Cleaning, Data Preprocessing , Data Preparation</li>
 <li><b>Database Management: </b> Postgresql, MySQL,SQL server ,SQL, Database Design, Database Administration, Data Modeling</li>
 <li><b>Data Engineering: </b> ETL (Extract Transform and Load), Data Pipelines, Data Warehousing, Business Intelligence (BI)</li>
-<li><b>Data Analysis and Visualization: </b> Excel, Power BI</li>
+<li><b>Data Analysis and Visualization: </b> Excel, Power BI, DAX, Power Queryli>
 <li><b>Version Control: </b> Git, GitHub</li>
 <li><b>Others: </b>  Linux, Docker</li>
 </ul>
